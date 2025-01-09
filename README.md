@@ -40,4 +40,4 @@ To run the `Advance_RAG_System.py` script, use the following command:
 python Advance_RAG_System.py
 ```
 
-Make sure your virtual environment is activated before running the scripts.
+Make sure your virtual environment is activated before running the scripts. Please access pdf folder for the declaration and project report.
