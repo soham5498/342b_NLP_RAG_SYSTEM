@@ -4,8 +4,8 @@
 
 1. **Clone the repository:**
     ```sh
-    git clone <repository_url>
-    cd nlp
+    git clone https://github.com/soham5498/342b_NLP_RAG_SYSTEM.git
+    cd 342b_NLP_RAG_SYSTEM
     ```
 
 2. **Create a virtual environment:**
